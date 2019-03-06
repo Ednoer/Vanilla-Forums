@@ -221,9 +221,6 @@ Untuk melakukan otomatisasi dalam melakukan install Vanilla Forums di Ubuntu Ser
 [`^ kembali ke atas ^`](#)
 
 ### Tampilan aplikasi web
-1. Instalasi di server
-
-![Terminal](https://github.com/rezaerbe/KomdatVanillaForums/blob/master/screenshoot/terminal.PNG)
 
 - Fungsi-fungsi utama
 

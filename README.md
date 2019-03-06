@@ -13,11 +13,12 @@
  
 
 ## Instalasi
+[`^ kembali ke atas ^`](#)
 
-- Prasyarat
+### Prasyarat
 Ubuntu Server with Apache2, MariaDB and PHP 7.2 support.
 
-- Langkah instalasi dalam CLI.
+### Langkah instalasi dalam CLI.
 1. Step 1: Install Apache2 HTTP Server on Ubuntu
     - install Apache2 HTTP pada Ubuntu server
     ```
@@ -203,13 +204,15 @@ Ubuntu Server with Apache2, MariaDB and PHP 7.2 support.
 
 
 ## Otomatisasi
+[`^ kembali ke atas ^`](#)
 
 Untuk melakukan otomatisasi dalam melakukan install Vanilla Forums di Ubuntu Server, maka silahkan download script yang telah disediakan dalam github ini.
 
 
 ## Cara Pemakaian
+[`^ kembali ke atas ^`](#)
 
-- Tampilan aplikasi web
+### Tampilan aplikasi web
 
 1. Instalasi di server
 
@@ -252,8 +255,9 @@ Untuk melakukan otomatisasi dalam melakukan install Vanilla Forums di Ubuntu Ser
 
 
 ## Pembahasan
+[`^ kembali ke atas ^`](#)
 
-- Pendapat anda tentang aplikasi web ini
+### Pendapat anda tentang aplikasi web ini
    - kelebihan
         - Anda dapat memperoleh barang-barang yang unik, yang mungkin tidak ada di pasaran.
         - Harga barang di forum jual beli biasanya sesuai dengan harga pasar dan bahkan lebih murah. Ini dikarenakan sang penjual bebas dari biaya sewa toko.
@@ -267,7 +271,7 @@ Untuk melakukan otomatisasi dalam melakukan install Vanilla Forums di Ubuntu Ser
         - Forum jual beli masih bersifat coba-coba karena hukuman e-commerce belum menyentuh wilayah ekonomi sejati.
         - Biasanya forum jual beli masih dipandang sebagai pasar barang-barang second.
 
-- Bandingkan dengan aplikasi web lain yang sejenis
+### Bandingkan dengan aplikasi web lain yang sejenis
 
     - Vanilla Forums
 
@@ -279,4 +283,4 @@ Untuk melakukan otomatisasi dalam melakukan install Vanilla Forums di Ubuntu Ser
 
 ## Referensi
 
-https://websiteforstudents.com/install-vanilla-forums-on-ubuntu-18-04-16-04-18-10-with-apache2-mariadb-and-php-7-2-support/
+1.  [Instalation](https://websiteforstudents.com/install-vanilla-forums-on-ubuntu-18-04-16-04-18-10-with-apache2-mariadb-and-php-7-2-support/) - WebSiteForStudent

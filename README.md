@@ -203,6 +203,13 @@ Ubuntu Server with Apache2, MariaDB and PHP 7.2 support.
 10. Buka http://example.com/
 
 
+## Konfigurasi
+[`^ kembali ke atas ^`](#)
+
+
+![Install](https://github.com/rezaerbe/KomdatVanillaForums/blob/master/screenshoot/install.png)
+
+
 ## Otomatisasi
 [`^ kembali ke atas ^`](#)
 
@@ -213,14 +220,9 @@ Untuk melakukan otomatisasi dalam melakukan install Vanilla Forums di Ubuntu Ser
 [`^ kembali ke atas ^`](#)
 
 ### Tampilan aplikasi web
-
 1. Instalasi di server
 
 ![Terminal](https://github.com/rezaerbe/KomdatVanillaForums/blob/master/screenshoot/terminal.PNG)
-
-2. Instalasi di Web
-
-![Install](https://github.com/rezaerbe/KomdatVanillaForums/blob/master/screenshoot/install.png)
 
 - Fungsi-fungsi utama
 
@@ -272,7 +274,6 @@ Untuk melakukan otomatisasi dalam melakukan install Vanilla Forums di Ubuntu Ser
         - Biasanya forum jual beli masih dipandang sebagai pasar barang-barang second.
 
 ### Bandingkan dengan aplikasi web lain yang sejenis
-[`^ kembali ke atas ^`](#)
 
 #### Vanilla Forums
 Untuk perusahaan yang ingin menyesuaikan hampir semua hal dan membuat forum terlihat seperti situs Anda, Forum Vanilla adalah yang tepat untuk Anda. Kustomisasi dan otomatisasi data melalui API dengan sistem lain lebih dari mungkin dan mereka berfungsi dengan baik sebagai penyedia hosting, berurusan dengan semua upgrade, penyebaran dan pemeliharaan dan manajemen ancaman dengan baik. Saya akan mengatakan mereka mungkin kurang putar kunci untuk aplikasi kecil tetapi kenyataannya mereka memiliki komunitas open source, kemampuan untuk mencari bantuan dan informasi dapat menurunkan penghalang bagi kebanyakan orang.

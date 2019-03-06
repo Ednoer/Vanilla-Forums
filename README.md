@@ -19,7 +19,7 @@
 Ubuntu Server with Apache2, MariaDB and PHP 7.2 support.
 
 ### Langkah instalasi dalam CLI.
-1. Step 1: Install Apache2 HTTP Server on Ubuntu
+1. Install Apache2 HTTP Server on Ubuntu
     - install Apache2 HTTP pada Ubuntu server
     ```
     $ sudo apt update
@@ -35,7 +35,7 @@ Ubuntu Server with Apache2, MariaDB and PHP 7.2 support.
 
     - Jalankan http://localhost
 
-2. Step 2: Install MariaDB Database Server
+2. Install MariaDB Database Server
     - install MariaDB pada Ubuntu Server
     ```
     $ sudo apt-get install mariadb-server mariadb-client
@@ -77,7 +77,7 @@ Ubuntu Server with Apache2, MariaDB and PHP 7.2 support.
     $ sudo mysql -u root -p
     ```
 
-3. Step 3: Install PHP 7.2 and Related Modules
+3. Install PHP 7.2 and Related Modules
     - add third party repository to upgrade to PHP 7.2
     ```
     $ sudo apt-get install software-properties-common
@@ -110,12 +110,12 @@ Ubuntu Server with Apache2, MariaDB and PHP 7.2 support.
     $ date.timezone = America/Chicago
     ```
 
-4. Step 4: Restart Apache2
+4. Restart Apache2
     ```
     $ sudo systemctl restart apache2.service
     ```
 
-5. Step 5: Create Vanilla Forums Database
+5. Create Vanilla Forums Database
     - logon to MariaDB database server
     ```
     $ sudo mysql -u root -p
@@ -142,7 +142,7 @@ Ubuntu Server with Apache2, MariaDB and PHP 7.2 support.
     $ EXIT;
     ```
 
-6. Step 6: Download Vanilla Forums Latest Release
+6. Download Vanilla Forums Latest Release
     - Install git and Composer packages
     ```
     $ sudo apt install curl git
@@ -163,7 +163,7 @@ Ubuntu Server with Apache2, MariaDB and PHP 7.2 support.
     $ sudo chmod -R 755 /var/www/html/vanilla/
     ```
 
-7. Step 7: Configure Apache2
+7. Configure Apache2
     - buat file config untuk vanilla forums
     ```
     $ sudo nano /etc/apache2/sites-available/vanilla.conf
@@ -189,18 +189,18 @@ Ubuntu Server with Apache2, MariaDB and PHP 7.2 support.
     </VirtualHost>
     ```
 
-8. Step 8: Enable the Vanilla Forums and Rewrite Module
+8. Enable the Vanilla Forums and Rewrite Module
     ```
     $ sudo a2ensite vanilla.conf
     $ sudo a2enmod rewrite
     ```
 
-9. Step 9 : Restart Apache2
+9. Restart Apache2
     ```
     $ sudo systemctl restart apache2.service
     ```
 
-10. buka http://example.com/
+10. Buka http://example.com/
 
 
 ## Otomatisasi
@@ -272,15 +272,15 @@ Untuk melakukan otomatisasi dalam melakukan install Vanilla Forums di Ubuntu Ser
         - Biasanya forum jual beli masih dipandang sebagai pasar barang-barang second.
 
 ### Bandingkan dengan aplikasi web lain yang sejenis
+[`^ kembali ke atas ^`](#)
 
 #### Vanilla Forums
-
-        Untuk perusahaan yang ingin menyesuaikan hampir semua hal dan membuat forum terlihat seperti situs Anda, Forum Vanilla adalah yang tepat untuk Anda. Kustomisasi dan otomatisasi data melalui API dengan sistem lain lebih dari mungkin dan mereka berfungsi dengan baik sebagai penyedia hosting, berurusan dengan semua upgrade, penyebaran dan pemeliharaan dan manajemen ancaman dengan baik. Saya akan mengatakan mereka mungkin kurang putar kunci untuk aplikasi kecil tetapi kenyataannya mereka memiliki komunitas open source, kemampuan untuk mencari bantuan dan informasi dapat menurunkan penghalang bagi kebanyakan orang.
+Untuk perusahaan yang ingin menyesuaikan hampir semua hal dan membuat forum terlihat seperti situs Anda, Forum Vanilla adalah yang tepat untuk Anda. Kustomisasi dan otomatisasi data melalui API dengan sistem lain lebih dari mungkin dan mereka berfungsi dengan baik sebagai penyedia hosting, berurusan dengan semua upgrade, penyebaran dan pemeliharaan dan manajemen ancaman dengan baik. Saya akan mengatakan mereka mungkin kurang putar kunci untuk aplikasi kecil tetapi kenyataannya mereka memiliki komunitas open source, kemampuan untuk mencari bantuan dan informasi dapat menurunkan penghalang bagi kebanyakan orang.
 
 #### Slack
-
-        Untuk situasi apa pun di mana email akan sesuai, Slack dapat menjadi pengganti yang cocok. Slack memiliki keuntungan lebih real-time dan percakapan daripada email tradisional. Slack memudahkan orang untuk datang dan pergi dari percakapan, tidak seperti rantai email yang tidak dapat ditambahkan atau dihapus oleh penerima. Namun, Slack bukanlah pengganti untuk rapat atau panggilan telepon tertentu di mana koneksi yang lebih pribadi mungkin diperlukan.
+Untuk situasi apa pun di mana email akan sesuai, Slack dapat menjadi pengganti yang cocok. Slack memiliki keuntungan lebih real-time dan percakapan daripada email tradisional. Slack memudahkan orang untuk datang dan pergi dari percakapan, tidak seperti rantai email yang tidak dapat ditambahkan atau dihapus oleh penerima. Namun, Slack bukanlah pengganti untuk rapat atau panggilan telepon tertentu di mana koneksi yang lebih pribadi mungkin diperlukan.
 
 ## Referensi
+[`^ kembali ke atas ^`](#)
 
 1.  [Instalation](https://websiteforstudents.com/install-vanilla-forums-on-ubuntu-18-04-16-04-18-10-with-apache2-mariadb-and-php-7-2-support/) - WebSiteForStudent

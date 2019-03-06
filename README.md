@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://pages.vanillaforums.com/hs-fs/hubfs/images/vanilla_logo_white_170.png?width=270&name=vanilla_logo_white_170.png"></h1>
+<h1 align="center"><img src="https://vanillaforums.com/images/logos/logo.png"></h1>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
@@ -7,12 +7,10 @@
 
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
-Vanilla forum adalah solusi forum komunitas open source, fleksibel, dan dapat digunakan untuk mendukung diskusi di ribuan situs.
 
-perangkat lunak yang memberi kemampuan untuk membuat forum online yang menarik dan interaktif untuk pelanggan dan klien potensial.
+**Vanilla forum** adalah solusi forum komunitas *open source*, fleksibel, dan dapat digunakan untuk mendukung diskusi di ribuan situs. perangkat lunak yang memberi kemampuan untuk membuat forum online yang menarik dan interaktif untuk pelanggan dan klien potensial. Setiap orang dapat menggunakan Vanilla Forum untuk membuat komunitas dalam hitungan menit agar tetap terhubung dengan sekelompok orang.
 
-Setiap orang dapat menggunakan Vanilla Forum untuk membuat komunitas dalam hitungan menit agar tetap terhubung dengan sekelompok orang.
-
+ 
 
 ## Instalasi
 

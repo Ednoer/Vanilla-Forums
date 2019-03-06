@@ -209,6 +209,7 @@ Ubuntu Server with Apache2, MariaDB and PHP 7.2 support.
 
 ![Install](https://github.com/rezaerbe/KomdatVanillaForums/blob/master/screenshoot/install.png)
 
+Sesuaikan dengan saat instalasi database host adalah localhost, database name adalah vanilla, database user adalah vanilla user, dan use .htaccess.
 
 ## Otomatisasi
 [`^ kembali ke atas ^`](#)

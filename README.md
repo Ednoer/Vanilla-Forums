@@ -259,7 +259,7 @@ Untuk melakukan otomatisasi dalam melakukan install Vanilla Forums di Ubuntu Ser
 
 ### Pendapat anda tentang aplikasi web ini
    - kelebihan
-        - Anda dapat memperoleh barang-barang yang unik, yang mungkin tidak ada di pasaran.
+        - Jika Menjadi Forum Jual Beli, Anda dapat memperoleh barang-barang yang unik, yang mungkin tidak ada di pasaran.
         - Harga barang di forum jual beli biasanya sesuai dengan harga pasar dan bahkan lebih murah. Ini dikarenakan sang penjual bebas dari biaya sewa toko.
         - Anda bisa tawar-menawar tanpa harus bertatap muka dengan pihak penjual. Anda bisa mengirimkan emoticon yang membentuk keakraban diantara Anda dan penjual.
         - Anda bisa menimbang atau membandingkan antara satu barang dengan barang yang lainnya tanpa harus membuat si pemilik toko kesal. Tidak seperti di pasar tradisional karena anda harus masuk dan bertemu penjaga toko terlebih dahulu.
@@ -274,7 +274,7 @@ Untuk melakukan otomatisasi dalam melakukan install Vanilla Forums di Ubuntu Ser
 ### Bandingkan dengan aplikasi web lain yang sejenis
 
 #### Vanilla Forums
-Untuk perusahaan yang ingin menyesuaikan forumnya agar terlihat seperti situs Anda, Vanilla Forum adalah pilihan yang tepat untuk Anda. Kustomisasi dan otomatisasi data melalui API dengan sistem lain sangat mungkin dan mereka berfungsi dengan baik sebagai penyedia hosting, mengurusi semua upgrade, perilisan dan pemeliharaan serta threat management dengan baik. aplikasi ini memerlukan proses setup yang cukup lama walaupun merupakan aplikasi kecil tetapi kenyataannya mereka memiliki komunitas open source, kemampuan untuk mencari bantuan dan informasi dapat mempermudah bagi kebanyakan orang.
+Untuk perusahaan yang ingin menyesuaikan forumnya agar terlihat seperti situs Anda, Vanilla Forum adalah pilihan yang tepat untuk Anda. Kustomisasi dan otomatisasi data melalui API dengan sistem lain sangat mungkin dan mereka berfungsi dengan baik sebagai penyedia hosting, mengurusi semua upgrade, perilisan dan pemeliharaan serta threat management dengan baik. aplikasi ini memerlukan proses setup yang cukup lama walaupun aplikasi kecil tetapi kenyataannya memiliki komunitas open source yang sangat luas, kemampuan untuk mencari bantuan dan informasi dapat mempermudah bagi kebanyakan orang.
 
 #### Slack
 Slack bagus digunakan dalam tim, di mana komunikasi cepat dan kasual. Aplikasi ini cocok digunakan dalam startup maupun tim kecil pada seluruh lapisan dalam organisasi tetapi pada organisasi yang lebih besar dengan struktur yang formal, aplikasi ini mungkin hanya akan digunakan pada lapisan-lapisan bawah dalam organisasi tersebut.

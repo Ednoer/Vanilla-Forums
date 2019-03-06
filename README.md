@@ -285,3 +285,4 @@ Untuk situasi apa pun di mana email akan sesuai, Slack dapat menjadi pengganti y
 [`^ kembali ke atas ^`](#)
 
 1.  [Instalation](https://websiteforstudents.com/install-vanilla-forums-on-ubuntu-18-04-16-04-18-10-with-apache2-mariadb-and-php-7-2-support/) - WebSiteForStudent
+2.  [About Vanilla Forums](https://vanillaforums.com/en/software/) - Vanilla Forums

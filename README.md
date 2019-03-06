@@ -273,13 +273,13 @@ Untuk melakukan otomatisasi dalam melakukan install Vanilla Forums di Ubuntu Ser
 
 ### Bandingkan dengan aplikasi web lain yang sejenis
 
-    - Vanilla Forums
+#### Vanilla Forums
 
-        - Untuk perusahaan yang ingin menyesuaikan hampir semua hal dan membuat forum terlihat seperti situs Anda, Forum Vanilla adalah yang tepat untuk Anda. Kustomisasi dan otomatisasi data melalui API dengan sistem lain lebih dari mungkin dan mereka berfungsi dengan baik sebagai penyedia hosting, berurusan dengan semua upgrade, penyebaran dan pemeliharaan dan manajemen ancaman dengan baik. Saya akan mengatakan mereka mungkin kurang putar kunci untuk aplikasi kecil tetapi kenyataannya mereka memiliki komunitas open source, kemampuan untuk mencari bantuan dan informasi dapat menurunkan penghalang bagi kebanyakan orang.
+        Untuk perusahaan yang ingin menyesuaikan hampir semua hal dan membuat forum terlihat seperti situs Anda, Forum Vanilla adalah yang tepat untuk Anda. Kustomisasi dan otomatisasi data melalui API dengan sistem lain lebih dari mungkin dan mereka berfungsi dengan baik sebagai penyedia hosting, berurusan dengan semua upgrade, penyebaran dan pemeliharaan dan manajemen ancaman dengan baik. Saya akan mengatakan mereka mungkin kurang putar kunci untuk aplikasi kecil tetapi kenyataannya mereka memiliki komunitas open source, kemampuan untuk mencari bantuan dan informasi dapat menurunkan penghalang bagi kebanyakan orang.
 
-    - Slack
+#### Slack
 
-        - Untuk situasi apa pun di mana email akan sesuai, Slack dapat menjadi pengganti yang cocok. Slack memiliki keuntungan lebih real-time dan percakapan daripada email tradisional. Slack memudahkan orang untuk datang dan pergi dari percakapan, tidak seperti rantai email yang tidak dapat ditambahkan atau dihapus oleh penerima. Namun, Slack bukanlah pengganti untuk rapat atau panggilan telepon tertentu di mana koneksi yang lebih pribadi mungkin diperlukan.
+        Untuk situasi apa pun di mana email akan sesuai, Slack dapat menjadi pengganti yang cocok. Slack memiliki keuntungan lebih real-time dan percakapan daripada email tradisional. Slack memudahkan orang untuk datang dan pergi dari percakapan, tidak seperti rantai email yang tidak dapat ditambahkan atau dihapus oleh penerima. Namun, Slack bukanlah pengganti untuk rapat atau panggilan telepon tertentu di mana koneksi yang lebih pribadi mungkin diperlukan.
 
 ## Referensi
 

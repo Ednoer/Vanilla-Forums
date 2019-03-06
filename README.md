@@ -200,7 +200,7 @@ Ubuntu Server with Apache2, MariaDB and PHP 7.2 support.
     $ sudo systemctl restart apache2.service
     ```
 
-10. Buka http://example.com/
+10. Buka http://locahost:8888/vanilla
 
 
 ## Konfigurasi

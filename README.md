@@ -41,14 +41,14 @@ Ubuntu Server with Apache2, MariaDB and PHP 7.2 support.
     $ sudo apt-get install mariadb-server mariadb-client
     ```
 
-    - Jalankan perintah ini pada Ubuntu 16
+    - Jalankan perintah ini pada Ubuntu 18
     ```
     $ sudo systemctl stop mysql.service
     $ sudo systemctl start mysql.service
     $ sudo systemctl enable mysql.service
     ```
 
-    - Jalankan perintah ini pada Ubuntu 16
+    - Jalankan perintah ini pada Ubuntu 18
     ```
     $ sudo systemctl stop mariadb.service
     $ sudo systemctl start mariadb.service
